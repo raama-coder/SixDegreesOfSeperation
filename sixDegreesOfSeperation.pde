@@ -8,7 +8,7 @@ Simulation sim;
 
 
 // Parameters that affect the degree of seperation
-int numPeople; // Total number of people
+int numPeople = 150; // Total number of people
 int numClusters = 5; // Number of groups of people
 int minFriends = 1; // Minimum amount of friends a person can have (has to be atleast 1)
 int maxFriends = 5; // Maximum amount of friends a person can have
